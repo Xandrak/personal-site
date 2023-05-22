@@ -1,2 +1,2 @@
 # personal-site
-A remake of my personal website using React, Typescript, and Node.
+A remake of my personal website using React, Next, Typescript, and Node.
